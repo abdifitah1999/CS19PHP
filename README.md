@@ -25,5 +25,5 @@
 
 * [downloud here](https://codemy.com/php-sheet.pdf)
 
-#### halkan ka aqriso macluumaad ku saabsan php
+#### halkan ka aqriso macluumaad ku saabsan php.
 
